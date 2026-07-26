@@ -1,1 +1,1 @@
-Hello there! My name is Halo and i am an new ameture web dev. Ive been practing and learning bit by bit everyday trying to get better. I love learning about anything that comes with coding and cybersecurity. Anywho, thank you for stopping by!
+Hello there! My name is Halo and i am an new ameture dev. Ive been practing and learning bit by bit everyday trying to get better. I love learning about anything that comes with coding and cybersecurity. Anywho, thank you for stopping by!
