@@ -1,9 +1,9 @@
 <h2>🛠️ Technologies</h2>
 
 <p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="60" height="60" alt="Python"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" height="35" />
   &nbsp;&nbsp;
-  <img src="https://cdn.simpleicons.org/xbox/107C10" width="60" height="60" alt="Xbox"/>
+  <img src="https://download.logo.wine/logo/Xbox_(app)/Xbox_(app)-Logo.wine.png" alt="Xbox" height="35" />
   &nbsp;&nbsp;
-  <img src="https://cdn.simpleicons.org/brave/FB542B" width="60" height="60" alt="Brave"/>
+  <img src="https://cdn.simpleicons.org/brave/FB542B" alt="Brave" height="35" />
 </p>
