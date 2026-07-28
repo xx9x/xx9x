@@ -1,13 +1,9 @@
-# Hi, I'm Victor 👋
+<h2>🛠️ Technologies</h2>
 
-## 🛠️ Technologies
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Xbox](https://img.shields.io/badge/Xbox-107C10?style=for-the-badge&logo=xbox&logoColor=white)
-![Brave](https://img.shields.io/badge/Brave-FB542B?style=for-the-badge&logo=brave&logoColor=white)
-
----
-
-## 📊 Most Used Languages
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=xx9x&layout=compact&theme=tokyonight)
+<p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="60" height="60" alt="Python"/>
+  &nbsp;&nbsp;
+  <img src="https://cdn.simpleicons.org/xbox/107C10" width="60" height="60" alt="Xbox"/>
+  &nbsp;&nbsp;
+  <img src="https://cdn.simpleicons.org/brave/FB542B" width="60" height="60" alt="Brave"/>
+</p>
