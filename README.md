@@ -1,19 +1,26 @@
 # Hi, I'm Victor 👋
 
-<h2>🛠️ Technologies</h2>
+## 🛠️ Technologies
 
 <p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" height="35" />
-  &nbsp;&nbsp;
-  <img src="https://download.logo.wine/logo/Xbox_(app)/Xbox_(app)-Logo.wine.png" alt="Xbox" height="35" />
-  &nbsp;&nbsp;
-  <img src="https://cdn.simpleicons.org/brave/FB542B" alt="Brave" height="35" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg"
+       alt="Python"
+       width="22"
+       height="22" />
+
+  <img src="https://download.logo.wine/logo/Xbox_(app)/Xbox_(app)-Logo.wine.png"
+       alt="Xbox"
+       width="22"
+       height="22" />
+
+  <img src="https://cdn.simpleicons.org/brave/FB542B"
+       alt="Brave"
+       width="22"
+       height="22" />
 </p>
 
 ---
 
 ## 📊 Most Used Languages
 
-<p>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight&hide_border=true" />
-</p>
+![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs?username=xx9x&layout=compact&theme=github_dark&hide_border=true)
