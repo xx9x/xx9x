@@ -1,4 +1,4 @@
-<h2>🛠️ Amateur cybersecurity analyst | halo fanatic</h2>
+<h2> Amateur cybersecurity analyst | halo fanatic</h2>
 
 <p align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" height="22" />
