@@ -9,7 +9,7 @@ Cybersecurity & AI enthusiast, aspiring security analyst, and developer.
 <p align="left">
   <img src="Cisco Badge.png" height="50" alt="Cisco Introduction to Cybersecurity">
   &nbsp;&nbsp;
-  <img src="Google AI Professional Certificate.png" height="65" alt="Google AI Professional Certificate">
+  <img src="Google AI Professional Certificate.png" height="60" alt="Google AI Professional Certificate">
 </p>
 
 ### Areas of Interest
