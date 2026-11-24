@@ -4,7 +4,7 @@
   <img src="Google AI Professional Certificate.png" height="60" alt="Google AI Professional Certificate">
 </p>
 
-|Cybersecurity & AI enthusiast, aspiring security analyst, and developer.
+Cybersecurity & AI enthusiast, aspiring security analyst, and developer.
 
 ### Projects
 
