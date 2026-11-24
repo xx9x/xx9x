@@ -3,22 +3,11 @@
 
 Cybersecurity & AI enthusiast, aspiring security analyst, and developer.
 
-
-### Certifications & Credentials
-
 <p align="left">
   <img src="Cisco Badge.png" height="50" alt="Cisco Introduction to Cybersecurity">
   &nbsp;&nbsp;
   <img src="Google AI Professional Certificate.png" height="60" alt="Google AI Professional Certificate">
 </p>
-
-### Areas of Interest
-
-- Cybersecurity
-- Artificial Intelligence
-- Security Operations
-- Web Development
-- Digital Privacy
 
 ### Projects
 
