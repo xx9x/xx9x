@@ -1,12 +1,10 @@
-
-# Hey, I'm Vic 👋
 <p align="left">
   <img src="Cisco Badge.png" height="50" alt="Cisco Introduction to Cybersecurity">
   &nbsp;&nbsp;
   <img src="Google AI Professional Certificate.png" height="60" alt="Google AI Professional Certificate">
 </p>
 
-Cybersecurity & AI enthusiast, aspiring security analyst, and developer.
+|Cybersecurity & AI enthusiast, aspiring security analyst, and developer.
 
 ### Projects
 
